@@ -2,7 +2,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/healthcare_backend.git
+   git clone https://github.com/sarcoding/healthcare_backend.git
    cd healthcare_backend
    ```
 2. **Create and activate a virtual environment**
